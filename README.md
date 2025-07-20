@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jameskrice7
+- 👋 Hi, I’m James Rice
 - 👀 I’m interested in: computational social science, climate change, and political institutions.
-- 🌱 I’m currently learning: text analysis and database management.
-- 💞️ I’m looking to collaborate on: quantitative work at the intersection of strategic CSR management and climate governance.
+- 🌱 I’m currently learning: AI engineering and neural-network models for stochastic time series.
+- 💞️ I’m looking to collaborate on: quantitative work at the intersection of strategic environmental financial engineering and international climate governance.
 - 📫 How to reach me: james.k.rice@essex.ac.uk.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I love reading non-fiction; no its not boring! 
